@@ -1,4 +1,4 @@
-Hi, we are the Super Intelligence Advance Development Program 
+👋 Hi, we are the Super Intelligence Advance Development Program 
 
 <img width="960" height="320" alt="si-adp-readme-centered" src="https://github.com/user-attachments/assets/c4b5c143-24ca-4852-b4e3-12cccea14cb7" />
 
